@@ -1,0 +1,42 @@
+Flappy Bird Clone
+
+Project Description
+
+Flappy Bird Clone is a simple bird game developed using Python and Pygame. The player controls a bird and tries to pass through pipes without hitting them.
+
+Technologies Used
+
+- Python 3
+- Pygame
+
+Features
+
+- Bird movement using gravity
+- Jumping with the SPACE key
+- Moving pipes
+- Score tracking
+- Collision detection
+- Game Over screen
+- Restart functionality
+
+Installation
+
+Install Pygame using the following command:
+
+pip install pygame
+
+How to Run
+
+Run the following command in the terminal:
+
+python flappy_bird.py
+
+Controls
+
+- SPACE: Make the bird jump
+- SPACE after Game Over: Restart the game
+- ESC: Exit the game
+
+Author
+
+Student Project — Bachelor of Technology, Computer Science and Engineering
